@@ -14,7 +14,7 @@ The website is a draft UX Design for Smashing Magazine website.
 
 ## Live Demo
 
-[Live Demo Link](https://ahmedtohamy01.github.io/)
+[Live Demo Link](https://raw.githack.com/AhmedTohamy01/UX-Project/UX-Design/index.html)
 
 
 ## Authors
