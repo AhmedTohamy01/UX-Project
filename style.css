@@ -376,6 +376,8 @@ html {
   text-align: center;
   font-size: 40px;
   font-style: italic;
+  height: 500px;
+  padding-top: 300px;
 }
 
 /* ######################################### GRAY ######################################### */
