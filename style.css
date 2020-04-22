@@ -134,7 +134,7 @@ table {
 /* ######################################### PAGE MAIN SETTINGS ############################################ */
 
 html {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Patrick Hand', cursive;
 }
 
 /* ######################################### HEADER SECTION ############################################ */
@@ -146,6 +146,9 @@ html {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
 }
 
 .header div {
@@ -170,6 +173,10 @@ html {
 .latest-articles div {
     border: solid white;
     color: white;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 30px;
+    padding: 20px;
 }
 
 .latest-articles-title {
@@ -179,6 +186,9 @@ html {
     width: 50%;
     margin: auto;
     text-align: center;
+
+    font-style: bold;
+    font-size: 40px;
 }
 
 .article1 {
@@ -274,6 +284,8 @@ html {
     /* border: solid red; */
     color: white;
     text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
 }
 
 /* ######################################### PERSON OF THE WEEN SECTION ######################################### */
@@ -330,6 +342,8 @@ html {
     /* border: solid red; */
     color: white;
     text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
 }
 
 /* ######################################### GUIDES SECTION ######################################### */
@@ -378,6 +392,8 @@ html {
 .footer {
     color: white;
     text-align: center;
+    font-size: 40px;
+    font-style: italic;
 }
 
 /* ######################################### GRAY ######################################### */
