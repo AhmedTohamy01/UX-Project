@@ -168,7 +168,7 @@ html {
   grid-template-rows: auto auto auto;
 }
 
-.latest-articles div {
+.latest-articles article {
   border: solid white;
   color: white;
   font-style: italic;
